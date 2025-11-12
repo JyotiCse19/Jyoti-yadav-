@@ -1,0 +1,76 @@
+<!DOCTYPE  html >
+<html>
+<head> 
+    <title>information </title>
+</head>
+<body>
+    <h1>name : jyoti yadav</h1>
+    <h2>branch : CSE </h2>
+    <h3>class: cse 19</h3>
+    <p>college name : Abes Ghaziabad</p>
+    </body>
+    </html>
+
+
+<DOCTYPE!>
+</html>
+</head>
+<title>/my hobbies</title>
+</head>
+<body>
+    <hi>my hobbies</h1>
+    <ul>
+        <li>reading books</li>
+        <li>listening music</li>
+        <li>playing games</li>
+        <li>watching movies</li>
+    </ul>
+</body >
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <img src= "https://share.google/images/LgmggRU0a2E5pqlMP" 
+    alt="flower" width="300" height="200">
+    </html>
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <links i use often></links>
+
+    <li> <a href = "https://www.com"></a>GOOGLE </a> </li>
+    <li> <a href = "https://www.facebook.com"></a>FACEBOOK</a> </li>
+    <li> <a href = "https://www.abes.ac.in"></a>abes </li>
+    <li> <a href = "https://www.youtube.com"></a>YOUTUBE </a> </li>
+
+<hr>
+<h2> marks and subject </h2>
+ <table style="border: 1px solid black; border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black;">Subject</th>
+    <th style="border: 1px solid black;">Marks</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;">Physics</td>
+    <td style="border: 1px solid black;">90</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;">Chemistry</td>
+    <td style="border: 1px solid black;">85</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;">Mathematics</td>
+    <td style="border: 1px solid black;">92</td>
+  </tr>
+</table>
